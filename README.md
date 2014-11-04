@@ -1,4 +1,3 @@
 datasciencecoursera
 ===================
-
-DS_Training
+Ram's Data Science Toolbox account setup...& traning
